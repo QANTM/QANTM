@@ -4,7 +4,7 @@
   - During junior year I went to Ryerson University for an exchange on New Media area.
   
 # 👀 Interested in media's mechanism as well as political issues. 
-  - History and philosophy has always to be my favorite.
+  - History, literature and philosophy have always been my favorite.
   
   - However, the fundamentals of a computer device also intrigue me a lot especially the sense of fully grasp on it when programming with Assembly/C.
   
