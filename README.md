@@ -13,9 +13,11 @@
   
   - Starting from simple Python project to process news report data, interests on fundamentals grows on me. 
   
-  - The concepts of OOP, UML, Data Structure all suddenly jam-packed to my world.
+  - The concepts of OOP, UML, Multithreading... all suddenly jam-packed to my world.
+
+  - Then I delve deeper and deeper on data structure, algorithms, operating system and computer architecture...
   
-  - Indeed it's a long way, but I proceed.
+  - Indeed it's a long way, but I will proceed.
   
 # 📫Contact Information
   I sincerely hold tremendous desire to communicate with different minds and explore brand-new area. If you'd like to reach out for me, here is my contact information:
