@@ -22,10 +22,10 @@
 # 📫Contact Information
   I sincerely hold tremendous desire to communicate with different minds and explore brand-new area. If you'd like to reach out for me, here is my contact information:
   
-  - Phone/WeChat : +86 17715242531
-  - Instagram: zennlyu
-  - Facebook: https://www.facebook.com/zhen.lyu.90
-  - LinkedIn: https://www.linkedin.com/in/圳-刘-29a60319b
+  - Phone & WeChat:  +86 17715242531
+  - Instagram:       zennlyu
+  - Facebook:        https://www.facebook.com/zhen.lyu.90
+  - LinkedIn:        https://www.linkedin.com/in/圳-刘-29a60319b
 
 <!---
 QANTM/QANTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
