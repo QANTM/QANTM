@@ -25,7 +25,7 @@
   - Phone/WeChat : +86 17715242531
   - Instagram: zennlyu
   - Facebook: https://www.facebook.com/zhen.lyu.90
-  - LinkedIn: linkedin.com/in/圳-刘-29a60319b
+  - LinkedIn: https://www.linkedin.com/in/圳-刘-29a60319b
 
 <!---
 QANTM/QANTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
