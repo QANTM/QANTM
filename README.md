@@ -1,7 +1,7 @@
 # 👋 Hi, Zhen Lyu here.
   - I am a journalism student who also falls for programming and problem-solving, currently majoring journalism and minoring computer science in NNU. 
   
-  - During junior year I went to Ryerson University for an exchange on New Media area.
+  - During junior year I went to Ryerson University in Ontario, Canada for an exchange on New Media area, where I learnt about game/VR programming with C++ in unreal engine.
   
 # 👀 Interested in media's mechanism as well as political issues. 
   - History, literature and philosophy have always been my favorite.
